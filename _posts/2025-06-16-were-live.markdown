@@ -1,8 +1,17 @@
 ---
+
 layout: post
 title:  "We're live"
 date:   2025-06-16 22:12:45 +0300
 categories: blog
+
 ---
+
 One thing I've been hankering for a while is for an outlet to talk about things. This Jekyll based blog should do just fine - it's not a fancy blog so far but we'll see where this thing takes us. 
 As far as other things go, I've renovated my site - I'll add some bells and whistles to it later. 
+
+---
+
+
+
+[Back to blog](http://blog.fraeon.info)
