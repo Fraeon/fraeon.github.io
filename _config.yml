@@ -32,6 +32,7 @@ baseurl: /
 
 # Build settings
 theme: no-style-please
+remote-theme: no-style-please
 plugins:
   - jekyll-feed
 
